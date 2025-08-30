@@ -1,0 +1,2 @@
+description = "Reads messages from a Telegram channel."
+prompt = "/home/almaz/MCP/FALLBACK_SCRIPTS/telegram_manager.sh read {{args}}"

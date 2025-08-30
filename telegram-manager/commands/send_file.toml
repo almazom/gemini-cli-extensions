@@ -1,0 +1,2 @@
+description = "Sends a file to a Telegram channel."
+prompt = "/home/almaz/MCP/FALLBACK_SCRIPTS/telegram_manager.sh send_file {{args}}"
